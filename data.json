@@ -1,0 +1,24 @@
+{
+    "Companies": [
+        {"CompanyID": 1, "CompanyName": "ТехноГрупп", "Industry": "IT", "Revenue": 50000000, "Employees": 200},
+        {"CompanyID": 2, "CompanyName": "ЭкоСтрой", "Industry": "Строительство", "Revenue": 75000000, "Employees": 150},
+        {"CompanyID": 3, "CompanyName": "ФинансСолюшн", "Industry": "Финансовые услуги", "Revenue": 60000000, "Employees": 300},
+        {"CompanyID": 4, "CompanyName": "МедТех", "Industry": "Медицинские технологии", "Revenue": 80000000, "Employees": 500},
+        {"CompanyID": 5, "CompanyName": "АгроПлюс", "Industry": "Сельское хозяйство", "Revenue": 40000000, "Employees": 250},
+        {"CompanyID": 6, "CompanyName": "ЭнергияБудущего", "Industry": "Энергетика", "Revenue": 95000000, "Employees": 400},
+        {"CompanyID": 7, "CompanyName": "КосмоТек", "Industry": "Космические технологии", "Revenue": 30000000, "Employees": 100},
+        {"CompanyID": 8, "CompanyName": "Логистика24", "Industry": "Транспорт", "Revenue": 65000000, "Employees": 350},
+        {"CompanyID": 9, "CompanyName": "РитейлМаг", "Industry": "Розничная торговля", "Revenue": 55000000, "Employees": 450},
+        {"CompanyID": 10, "CompanyName": "КлиматСистем", "Industry": "Климатические системы", "Revenue": 30000000, "Employees": 200},
+        {"CompanyID": 11, "CompanyName": "МедиаГрупп", "Industry": "Медиа", "Revenue": 70000000, "Employees": 300},
+        {"CompanyID": 12, "CompanyName": "КриптоТек", "Industry": "Финансовые технологии", "Revenue": 25000000, "Employees": 80},
+        {"CompanyID": 13, "CompanyName": "СтройСервис", "Industry": "Строительство", "Revenue": 48000000, "Employees": 120},
+        {"CompanyID": 14, "CompanyName": "ИдеяМаркет", "Industry": "Маркетинг", "Revenue": 32000000, "Employees": 95},
+        {"CompanyID": 15, "CompanyName": "ТуризмПлюс", "Industry": "Туризм", "Revenue": 40000000, "Employees": 180},
+        {"CompanyID": 16, "CompanyName": "ЗеленаяПланета", "Industry": "Экология", "Revenue": 60000000, "Employees": 250},
+        {"CompanyID": 17, "CompanyName": "АвтоМир", "Industry": "Автомобили", "Revenue": 80000000, "Employees": 400},
+        {"CompanyID": 18, "CompanyName": "ГастрономМаг", "Industry": "Пищевая промышленность", "Revenue": 30000000, "Employees": 150},
+        {"CompanyID": 19, "CompanyName": "СпортТех", "Industry": "Спортивные товары", "Revenue": 22000000, "Employees": 50},
+        {"CompanyID": 20, "CompanyName": "ОбразованиеМир", "Industry": "Образование", "Revenue": 35000000, "Employees": 200}
+    ]
+}
